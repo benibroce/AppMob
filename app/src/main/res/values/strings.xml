@@ -1,0 +1,99 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TDAH</string>
+    <!-- Page d'acceuil-->
+    <string name="sign_in">Connexion</string>
+    <string name="sign_up">Pas encore de compte</string>
+    <!-- Pages d'inscription et login-->
+    <string name="retour">retour</string>
+    <string name="enregistrer">enregistrer</string>
+    <string name="mdp_oublie">Mot de passe oublié ? </string>
+    <string name="prompt_password">Mot de Passe</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_first_name">Prénom</string>
+    <string name="prompt_last_name">Nom</string>
+    <string name="phone">Téléphone</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_sign_in">Connexion ou Inscription</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bienvenue !"</string>
+    <string name="invalid_username">Ce n`est pas un nom d`utilisateur valide</string>
+    <string name="invalid_password">Le mot de passe doit être >5 caractères</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main3">MainActivity</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="btn2">Le TDAH ? </string>
+    <string name="btn1">Suis-je tdah</string>
+    <string name="btn3">En parler</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textview">Inscription</string>
+    <string name="connexion">Connexion</string>
+    <string name="text">Créer un compte ?</string>
+    <string name="lien_connexion">Déjà un compte ? Connectez-vous !</string>
+    <string name="titre_bienvenue">Bienvenue !</string>
+    <string name="questionnaire"> Questionnaire</string>
+    <string name="Text_présentation"> Cette application a pour vocation d aider les personnes atteintes de tdah. Mais aussi de faire découvrir les particularités de ce trouble.  </string>
+    <string name="logo">logo</string>
+    <string name="todo">logo</string>
+    <string name="title_activity_explication">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="conseil1">Conseils</string>
+
+    <string name="démarches">démarches</string>
+    <string name="bouton1_bienvenue">TextView</string>
+    <string name="btn_comment_vivre">Comment mieux vivre son TDAH</string>
+    <string name="explications">Qu est ce que le TDAH</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="logout">logout</string>
+    <string name="chabox">Chatbox</string>
+    <string name="discord">Serveur discord</string>
+    <!--page explication tdah-->
+    <string name="paragraphe1">
+        Le Trouble du Déficit de l`Attention avec ou sans Hyperactivité (TDA/H) est un trouble neurobiologique qui peut être très problématique chez l`enfant puis chez l`adulte, et qui par ailleurs peut être aussi bénéfique.C`est un désordre neurologique et non pas une maladie.Il peut être aggravé par des facteurs psycho-sociaux, mais il est essentiellement d`origine génétique (donc souvent héréditaire) et neurobiologique. C`est un trouble qui n`est pas seulement réservé aux enfants mais aussi beaucoup aux adultes. </string>
+    <string name="titreexplication0">C`est une association de 3 dimensions cliniques: Inattention, impulsivité, hyperactivité.</string>
+    <string name="titreexplication1">Inattention</string>
+
+    <string name="paragraphe2">Une difficulté à maintenir son attention dans la durée, à sélectionner son objet d`attention sans se laisser distraire par des stimuli externes. L`enfant va par exemple se retourner pour regarder derrière lui, afin de savoir d`où viennent les bruits qu`il entend.</string>
+    <string name="titreexplication2">Impulsivité</string>
+    <string name="paragraphe3">Une incapacité à attendre pour prendre la parole ou à différer une action. Une difficulté à gérer ses émotions et à garder son calme. L`enfant patiente difficilement dans une file d’attente.</string>
+    <string name="titreexplication3">Hyperactivité</string>
+    <string name="paragraphe4">Un besoin de bouger sans cesse, parle beaucoup ou fait des bruits. L`enfant hyperactif ne tient pas en place, souvent car il ne peut pas rester concentré sur une tâche qu`il ne termine pas, il passe ainsi d`une activité à une autre sans en terminer aucune.</string>
+    <string name="paragraphe5">Il peut bien sur y avoir un mixte entre une ou plusieurs de ces formes :c`est-à-dire àa la fois l`inattention, l`hyperactivité et l`impulsivité</string>
+    <string name="paragraphe6">A l`age adulte, ces symptômes peuvent disparaitre ou s`agraver en fonction de l`age où le trouble a étét diagnostiqué. </string>
+    <!-- page mieux vivre son tdah-->
+    <string name="titreMVT1">Comment mieux vivre son tdah ? </string>
+    <string name="paragrapheMVT1"> Dans un premier temps, il faut considerer qu`une personne TDA(H)
+    que ce soit un adulte ou un enfant sera toujours différente des autres. Elle aura besoins de plus d`énergie pour se concentrer,s`organiser ou même gérer ses émotions. L`ensemble de ces conseils vient de mon expérience personnelle et de longues recherches sur des sites dédiés au TDA(H).
+    </string>
+    <string name="soustitreMVT1">Le sommeil</string>
+    <string name="paragrapheMVT2">Bien que en tant normal le sommeil  n `est pas une partie de l`hygiene de vie à négliger.
+    Elle l`est encore plus pour les personnes atteinte de TDA(H). En effet, le sommeil va dans notre cas énormément améliorer notre faculté de concentration et notre capacité à faire face aux émotions de la journée. Il va baisser l`irritabilité dans certains cas.  </string>
+    <string name="soustitreMTV2">L`organisation</string>
+    <string name="paragrapheMVT3">C`est un des conseils les plus importants. La personne TDAH(H) a tendance à être énormément désorganiser dans sa vie. Pour y remiédier, la personne peut se fixer une "To do" liste d`objectifs à atteindre pour la journée. Il faut aussi bien sur se ménager des moments de repos pour être plus productifs par la suite. Par exemple, se balader entre deux sessions de travail, faire du sport, méditer.
+        Vous pouvez découper les taches en petites sessions (1 heure au lieu de 2 heures) car la faculté d`attention est plus difficile à maintenir. De plus, vous pouvez travailler avec un fond sonore car contrrairement à d`autres personnes, le bruit peut vous aider à vous concentrer. Garder un espace de travail propre. En effet, cela va améliorer vos capacités de travail.</string>
+    <string name="soustitreMVT3">La méditation</string>
+    <string name="paragrapheMTV4">Elle a de nombreux aspects positifs dans notre cas. En effet, elle permet de prendre de la distance avec nos émotions et notre quotidien. Elle aide à calmer l`anxiété et l`impulsivité car elle nous apprend à lacher prise sur un flot de penser parfois trop rapide mais aussi dans la gestion d`émotions fortes.</string>
+    <string name="soustitreMVT4">Le sport</string>
+    <string name="paragrapheMTV5">Dans notre cas, le sport va nous aider à calmer l`hyperactivité, qu`elle soit mentale ou physique.  </string>
+    <string name="btn_en_parler">En parler</string>
+    <string name="fonctionnement">Le Fonctionnement</string>
+    <string name="titre_fonctionnement1">Le diagnostic et l`évolution</string>
+    <string name="soustitre_fonctionnemet1">Pour confirmer le diagnostic, plusieurs consultations sont nécessaires auprès du médecin traitant, puis auprès d`un médecin spécialiste du TDAH : pédiatre, neurologue, psychiatre pour enfant, neuropsychologue (spécialiste des troubles du fonctionnement cérébral).</string>
+
+    <string name="paragraphe_fonctionnement1">L`objectif est de bien distinguer le TDAH d`autres problèmes pouvant entraîner des symptômes similaires (hyperactivité, inattention ou simple comportement turbulent).L`équipe médicale va s`appuie sur une analyse des bulletins complets de l`enfant, un examen clinique complet, unquestionnaire pour la famille et si besoins des tests plus poussés comme:  </string>
+    <string name="paragraphe_fonctionnement2">bilan orthophonique : analyse du langage et de la communication,</string>
+    <string name="paragraphe_fonctionnement3">bilan psychomoteur : étude de la motricité en rapport avec le milieu de vie,</string>
+    <string name="paragraphe_fonctionnement4">bilan ergothérapique : évaluation de la participation de l`enfant dans ses occupations quotidiennes, scolaires et de loisirs ainsi que des éléments facilitant ou faisant obstacle à son autonomie,</string>
+    <string name="paragraphe_fonctionnement5">examen orthoptique : exploration de la vision, si besoin</string>
+    <string name="soustitre_fonctionnement2">L`évolution</string>
+    <string name="paragraphe_fonctionnement6">Ce trouble persiste à l`adolescence mais se modifie. La personne présente moins d`hyperactivité, mais tout autant d`impulsivité et d`inattention. Cela peut déteriorer ses résultats scolaires, ses relations personnels et professionnels. C`est pour cela qu`il est conseillé de voir un psychiatre tout les 6 mois pour ajuster le traitement et voir l`évolution du patient. De plus, un suivi psychologique peut être nécéssaire pour apprendre à la personnne à gérer ce nouvel apsect de sa vie mais aussi lui redonner confiance en elle. </string>
+    <string name="Trouve_medecin">Trouver son médecin</string>
+    <string name="info">Service en cours de développements !</string>
+    <string name="info2">La fonction Trouver son médecin sera bientot disponible.</string>
+
+</resources>
